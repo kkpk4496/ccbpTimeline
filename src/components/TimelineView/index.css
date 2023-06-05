@@ -1,0 +1,29 @@
+.main-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  height: 100%;
+}
+.heading1 {
+  color: #2b237c;
+  font-family: roboto;
+  font-size: 18px;
+}
+.heading2 {
+  color: #2b237c;
+  font-family: roboto;
+  font-size: 26px;
+  font-weight: bold;
+}
+
+.chrono-container {
+  width: 1200px;
+  height: 600px;
+}
+
+.image {
+  width: 200px;
+  height: 200px;
+}
